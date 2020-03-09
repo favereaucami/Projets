@@ -6,7 +6,6 @@
 <style id="jsbin-css">
     html{
       font-family: 'Bellota', cursive;
-      background-color:black;
     }
     h1{
       color:aqua;
@@ -14,6 +13,7 @@
     }
     body{
       color:aqua;
+      background-color:black;
     }
     p{
       border: 2px solid aqua;
@@ -33,15 +33,17 @@
   <p>
     <h1> プロジェクト </h1>
     <h2> Ici on peut trouver nos projets de NSI précedents: </h2>
-  
     <ul>
-      <li> 
-      <li> 
-      <li> 
-      <li> 
+      <li> Canvas_Template
+      <li> RechercheElement
+      <li> TriContraint
+      <li> TriListe
+      <li><a href="">Voici le link pour accèder aux codes
    </ul>
+  
   </p>
   <z>Autres Pages:</z>
+  
   <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
   <x><a href=""> </a></x>
 
