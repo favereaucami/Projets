@@ -1,1 +1,48 @@
+<meta name="robots" content="noindex">
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
+<style id="jsbin-css">
+    html{
+      font-family: 'Bellota', cursive;
+      background-color:black;
+    }
+    h1{
+      color:aqua;
+      background:black;
+    }
+    body{
+      color:aqua;
+    }
+    p{
+      border: 2px solid aqua;
+    }
+    a{
+      color:aqua;
+    }
+    o{
+      margin: 677px;
+    }
+    x{
+      margin: 700px;
+    }
+</style>
+</head>
+<body>
+  <p>
+    <h1> プロジェクト </h1>
+    <h2> Ici on peut trouver nos projets de NSI précedents: </h2>
+  
+    <ul>
+      <li> 
+      <li> 
+      <li> 
+      <li> 
+   </ul>
+  </p>
+  <z>Autres Pages:</z>
+  <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
+  <x><a href=""> </a></x>
+
 
