@@ -1,17 +1,19 @@
-<!DOCTYPE html>
 <meta name="robots" content="noindex">
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>JS Bin</title>
-  <style>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
+<style id="jsbin-css">
+    html{
+      font-family: 'Bellota', cursive;
+      background-color:black;
+    }
     h1{
       color:aqua;
       background:black;
     }
     body{
       color:aqua;
-      background-color:black;
     }
     p{
       border: 2px solid aqua;
@@ -25,7 +27,7 @@
     x{
       margin: 700px;
     }
-  </style>
+</style>
 </head>
 <body>
   <p>
@@ -42,5 +44,4 @@
   <z>Autres Pages:</z>
   <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
   <x><a href=""> </a></x>
-</body>
-</html>
+
