@@ -4,11 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>JS Bin</title>
-      <link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
-  <style id="jsbin-css">
-    html{
-      font-family: 'Bellota', cursive;
-    }
+  <style>
     h1{
       color:aqua;
       background:black;
@@ -29,7 +25,7 @@
     x{
       margin: 700px;
     }
-</style>
+  </style>
 </head>
 <body>
   <p>
