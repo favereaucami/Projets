@@ -42,7 +42,7 @@
   
     
   <z>Autres Pages:</z>
-  <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
-  <x><a href="https://favereaucami.github.io/rapports"> Rapports </a></x>
+  <o><a href="https://favereaucami.github.io/index/"> Accueil </a>
+  <x><a href="https://favereaucami.github.io/rapports"> Rapports </a>
 
 
