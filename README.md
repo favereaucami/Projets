@@ -38,9 +38,8 @@
       <li> RechercheElement
       <li> TriContraint
       <li> TriListe
-      <li><a href="https://github.com/favereaucami/Programmes-Python">Voici le link pour accèder aux codes </a></li>
-    </ul>
-    </p>
+      <li><a href="https://github.com/favereaucami/Programmes-Python">Voici le link pour accèder aux codes </a></li></ul>
+  
     
   <z>Autres Pages:</z>
   <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
