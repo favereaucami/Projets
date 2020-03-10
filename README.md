@@ -40,8 +40,9 @@
       <li> TriListe
       <li><a href="https://github.com/favereaucami/Programmes-Python">Voici le link pour accèder aux codes </a></li>
     </ul>
+    </p>
+    
   <z>Autres Pages:</z>
-  
   <o><a href="https://favereaucami.github.io/index/"> Accueil </a> </o>
   <x><a href="https://favereaucami.github.io/rapports"> Rapports </a></x>
 
